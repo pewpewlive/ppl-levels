@@ -1,0 +1,7 @@
+meshes = {
+    {
+    vertexes = {},
+    colors = {},
+    segments = {}
+    }
+  }
