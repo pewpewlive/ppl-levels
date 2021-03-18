@@ -1,0 +1,7 @@
+{
+  "name":"Cage theory",
+  "descriptions":["you wait, you shoot, you wait, you shoot..."],
+  "entry_point":"level.lua",
+  "has_score_leaderboard":true,
+  "rank_thresholds_1p":{"bronze":740, "silver":1980, "gold":3860}
+}
