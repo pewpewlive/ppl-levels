@@ -1,0 +1,6 @@
+{
+  "name":"Warmup",
+  "descriptions":["The good old warmup!"],
+  "entry_point":"level.lua",
+  "has_score_leaderboard":false
+}
