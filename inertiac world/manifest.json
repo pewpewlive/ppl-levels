@@ -1,0 +1,7 @@
+{
+    "name":"Inertiac World",
+    "descriptions":["Also play \"Inertiacs RAGE\""],
+    "entry_point":"level.lua",
+    "has_score_leaderboard":true,
+    "rank_thresholds_1p":{"bronze":10000, "silver":20000, "gold":35000}
+}
