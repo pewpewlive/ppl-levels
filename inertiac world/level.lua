@@ -180,7 +180,7 @@ pewpew.add_update_callback(
          damaging_inertiac(750fx,1500fx-375fx,1.3000fx,RandomAngle,450,1,1)
          end
       end
-      if time % timet == 0 then
+      if timet <= 0 or time % timet == 0 then
          local RandomAngle = fmath.random_fixedpoint(0fx,fmath.tau())
          pewpew.new_inertiac(1fx,750fx,1fx,RandomAngle)
          local RandomAngle = fmath.random_fixedpoint(0fx,fmath.tau())
