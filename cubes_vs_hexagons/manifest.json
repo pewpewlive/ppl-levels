@@ -1,0 +1,7 @@
+{
+  "name": "#80ff00ffRolling Cubes#ffffffff vs #aa10ffffSpinning Hexagons",
+  "descriptions": ["Are #aa10ffffhexagons #ffffffffreally the #2020ffffbestagons#ffffffff???"],
+  "entry_point": "level.lua",
+  "has_score_leaderboard": true,
+  "rank_thresholds_1p": {"bronze":1000, "silver":2500, "gold":5000}
+}
