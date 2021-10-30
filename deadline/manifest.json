@@ -1,0 +1,7 @@
+{
+  "name":"#2039f0ffDeadline",
+  "descriptions": ["#8af98effThe #e150c7fftime #8af98effis ticking!"],
+  "entry_point": "level.lua",
+  "has_score_leaderboard": true,
+  "rank_thresholds_1p": {"bronze": 10000, "silver": 17500, "gold": 25000}
+}
