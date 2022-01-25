@@ -1,0 +1,7 @@
+{
+    "name":"#FFF000FFInertiacs #FF9300FFspawner",
+    "descriptions":["#FF4507FFAlso #FF4507FFplay #FF5900FFInertiac #FF5900FFWorld"], 
+    "entry_point":"level.lua",
+    "has_score_leaderboard":true, 
+    "rank_thresholds_1p":{"bronze":25000, "silver":35000, "gold":42500}
+ }
