@@ -1,0 +1,7 @@
+{
+    "name":"#2049ceffThe #28c10cffGenerator",
+    "descriptions":["#7053d4ffPower #99b5c1ffthe #08e714ffgenerator"],
+    "entry_point":"level.lua",
+    "has_score_leaderboard":true,
+    "rank_thresholds_1p":{"bronze":2500, "silver":20000, "gold":30000}
+}
