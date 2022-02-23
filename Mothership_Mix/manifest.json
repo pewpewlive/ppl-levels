@@ -1,0 +1,7 @@
+{
+  "name":"#ff0000ffMot#ff0070ffher#00ffffffship #00ff00ffMix",
+  "descriptions":["#ffff20ffGet a taste of them all."],
+  "entry_point":"level.lua",
+  "has_score_leaderboard":true,
+  "rank_thresholds_1p":{"bronze":5000, "silver":8000, "gold":15000}
+}
