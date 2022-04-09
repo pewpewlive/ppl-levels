@@ -1,0 +1,11 @@
+{
+  "name": "#be1f64ffP#ff0000ffo#c74b00ffl#00ff00ffy#00f6c1ffg#be1f64ffo#ff0000ffn#c74b00ffs",
+  "descriptions": ["Also try #ff0000ffMot#ff0070ffher#00ffffffship #00ff00ffMix", "#00f6c1ffIt #00ff00ffis #c74b00ffall #ff0000ffabout #be1f64ffmotherships. #997b11ffRight?"],
+  "entry_point": "level.lua",
+  "has_score_leaderboard": true,
+  "rank_thresholds_1p": {
+    "bronze": 9000,
+    "silver": 14500,
+    "gold":   22000
+  }
+}
