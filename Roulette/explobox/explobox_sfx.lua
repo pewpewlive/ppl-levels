@@ -1,0 +1,7 @@
+require("/dynamic/helpers/sound_parser.lua")
+
+hit = parseSound('https://pewpew.live/jfxr/index.html#%7B%22_version%22%3A1%2C%22_name%22%3A%22Random%206%22%2C%22_locked%22%3A%5B%5D%2C%22sampleRate%22%3A44100%2C%22attack%22%3A0%2C%22sustain%22%3A0.16622309379214384%2C%22sustainPunch%22%3A0%2C%22decay%22%3A0.5237847218559624%2C%22tremoloDepth%22%3A6%2C%22tremoloFrequency%22%3A857%2C%22frequency%22%3A1211.6762624411595%2C%22frequencySweep%22%3A0%2C%22frequencyDeltaSweep%22%3A-6180.387005063707%2C%22repeatFrequency%22%3A95%2C%22frequencyJump1Onset%22%3A33%2C%22frequencyJump1Amount%22%3A0%2C%22frequencyJump2Onset%22%3A66%2C%22frequencyJump2Amount%22%3A0%2C%22harmonics%22%3A0%2C%22harmonicsFalloff%22%3A0.5%2C%22waveform%22%3A%22sine%22%2C%22interpolateNoise%22%3Afalse%2C%22vibratoDepth%22%3A85.4663986591697%2C%22vibratoFrequency%22%3A999.999999999997%2C%22squareDuty%22%3A50%2C%22squareDutySweep%22%3A0%2C%22flangerOffset%22%3A18%2C%22flangerOffsetSweep%22%3A40%2C%22bitCrush%22%3A16%2C%22bitCrushSweep%22%3A0%2C%22lowPassCutoff%22%3A8300%2C%22lowPassCutoffSweep%22%3A0%2C%22highPassCutoff%22%3A3800%2C%22highPassCutoffSweep%22%3A9000%2C%22compression%22%3A1.7%2C%22normalization%22%3Atrue%2C%22amplification%22%3A20%7D')
+
+sounds = {
+    hit
+}

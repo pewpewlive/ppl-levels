@@ -1,0 +1,8 @@
+{
+    "name":"#0000ffffRo#ff0000ffu#00ff00ffle#ffff00fft#ff00ffffte#00ffffff!",
+    "descriptions":["*| #ffffff70Reloading level... #ffffffff|*"],
+    "entry_point":"level.lua",
+    "has_score_leaderboard":true,
+    "rank_thresholds_1p":{"bronze":16000, "silver":23000, "gold":30000}
+  }
+  
