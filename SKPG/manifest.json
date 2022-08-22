@@ -1,0 +1,6 @@
+{
+    "name":"#ff000050<#ff0000ffSK#0000ffffPG#0000ff50>",
+    "descriptions":["The Rumor, The Myth, The Legend."],
+    "entry_point":"level.lua",
+    "has_score_leaderboard":false
+}
