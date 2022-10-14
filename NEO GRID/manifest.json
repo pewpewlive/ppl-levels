@@ -1,0 +1,7 @@
+{
+    "name":"#ff0061f9_=NEO #5100ffffGRID=_",
+    "descriptions":["#ff0000ffFailure: #ff0061f9Floating #5100ffffCube #ffffffffPopulation"],
+    "entry_point":"level.lua",
+    "has_score_leaderboard":true,
+    "rank_thresholds_1p":{"bronze":12500, "silver":25000, "gold":37500}
+}
