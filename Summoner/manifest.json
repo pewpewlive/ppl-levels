@@ -1,0 +1,8 @@
+{
+  "name":"#ffffffffS#22ff44ffu#ffffffffm#22ff44ffm#ffffffffo#22ff44ffn#ffffffffe#22ff44ffr",
+  "descriptions":["They follow you"],
+	"information":"Survive as many waves as you can, while your army gets stronger and stronger. Find all the secrets and get all achievements!",
+  "entry_point":"level.lua",
+  "has_score_leaderboard":true,
+	"rank_thresholds_1p":{"bronze":256, "silver":512, "gold":2048}
+}
