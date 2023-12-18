@@ -1,0 +1,72 @@
+
+local variations = {
+  constant = {
+    hp = 20fx,
+    score = 10000,
+    score_per_hit = 100,
+    color = 0x00d060ff,
+    recharge = 70,
+  },
+  rotating = {
+    hp = 18fx,
+    score = 10000,
+    score_per_hit = 100,
+    color = 0x60ffffff,
+    recharge = 70,
+    rotation_speed = 0.32fx,
+  },
+  homing = {
+    hp = 17fx,
+    score = 10000,
+    score_per_hit = 100,
+    color = 0xff4020ff,
+    recharge = 150,
+  },
+  shotgun = {
+    hp = 18fx,
+    score = 10000,
+    score_per_hit = 100,
+    color = 0xff60f0ff,
+    recharge = 180,
+    projectile_amount = 3fx,
+    angle_offset = 0.2048fx,
+  },
+  stalker = {
+    hp = 18fx,
+    score = 10000,
+    score_per_hit = 100,
+    color = 0xff9040ff,
+    recharge = 90,
+    rotation_speed = 0.32fx,
+  },
+  chain = {
+    hp = 19fx,
+    score = 10000,
+    score_per_hit = 100,
+    color = 0x8040ffff,
+    recharge = 150,
+    min_recharge_shot = 30,
+    recharge_shot_delay = 10,
+  },
+  rotating_chain = {
+    hp = 18fx,
+    score = 10000,
+    score_per_hit = 100,
+    color = 0x80ff00ff,
+    recharge = 190,
+    rotation_speed = 0.48fx,
+    min_recharge_shot = 30,
+    recharge_shot_delay = 15,
+  },
+  face = {
+    hp = 18fx,
+    score = 10000,
+    score_per_hit = 100,
+    color = 0xff8080ff,
+    recharge = 180,
+    angle_offset = 0.3072fx,
+    projectile_amount = 9fx,
+  },
+}
+
+return variations
