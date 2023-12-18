@@ -1,7 +1,6 @@
 {
-    "name":"Pseudo-Infinity",
-    "descriptions":["Pseudo-Infinity"],
-    "information":"An attempt at having a pseudo-infinite effect on a level like the official level '#cfcfcfffAsteroids#ffffffff'. I got this idea at 03:00 and it seems to work correctly. Adding normal in-game entities should work perfectly fine. Customizable entities should work fine unless they are too large.",
-    "entry_point":"level.lua",
-    "has_score_leaderboard":false
-  }
+    "name": "Pseudo-Infinity",
+    "descriptions": ["A level with no borders."],
+    "entry_point": "level.lua",
+    "has_score_leaderboard": false
+}
