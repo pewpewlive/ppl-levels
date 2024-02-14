@@ -1,0 +1,7 @@
+{
+    "name":"#ff6020ffCozone",
+    "descriptions":["#40aaffaaStay inside the #ff6020ffcozy areas#ffffffff! #ff202099Or should you?"],
+    "entry_point":"level.lua",
+    "has_score_leaderboard":true,
+    "rank_thresholds_1p":{"bronze":100000, "silver":200000, "gold":300000}
+}
