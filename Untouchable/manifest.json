@@ -1,0 +1,8 @@
+{
+  "name":"#30ff80d0Untouchable",
+  "descriptions":["#30ff80d0Welcome#80a0c080 to the#ff4040a0 bullet hell#80a0c080!"],
+  "information": "#4080ffffLast long enough to win. #ff6020ffBe careful as enemies get stronger with time! #4080ffffLots of new weapons will help you to catch up, but don't relax, #ff6020ffanything can happen...",
+  "entry_point":"level.lua",
+  "has_score_leaderboard":true,
+  "rank_thresholds_1p":{"bronze":826000, "silver":1523000, "gold":2731000}
+}

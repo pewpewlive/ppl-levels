@@ -1,8 +1,0 @@
-{
-  "name":"#30ff80d0Untouchable",
-  "descriptions":["#30ff80d0Welcome#80a0c080 to the#ff4040a0 bullet hell#80a0c080!"],
-  "information": "#80a0c080Those projectiles won't dodge themselves, now go and play. Also, #ff4040a0have fun #30ff80d0:)",
-  "entry_point":"level.lua",
-  "has_score_leaderboard":true,
-  "rank_thresholds_1p":{"bronze":826000, "silver":1523000, "gold":2735000}
-}
