@@ -1,6 +1,6 @@
 {
     "name": "Pseudo-Infinity",
-    "descriptions": ["A level with no borders."],
+    "descriptions": ["A level with no borders"],
     "entry_point": "level.lua",
     "has_score_leaderboard": false
 }
