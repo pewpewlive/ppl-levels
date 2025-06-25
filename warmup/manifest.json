@@ -1,6 +1,7 @@
 {
-  "name":"Warmup",
-  "descriptions":["The good old warmup!"],
-  "entry_point":"level.lua",
-  "has_score_leaderboard":false
+  "name": "#ffff00ffWarmup",
+  "descriptions": ["Warm up and conquer the leaderboards!"],
+  "information": "This level was highely inspired by the warmup level in PewPew 2. Enjoy!",
+  "entry_point": "level.lua",
+  "has_score_leaderboard": false
 }

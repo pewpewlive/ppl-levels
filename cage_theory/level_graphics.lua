@@ -1,7 +1,7 @@
 local gfx = require("/dynamic/graphics_helpers.lua")
 
-local w = 600
-local h = 600
+local w = 550
+local h = 550
 
 function make_level_mesh()
   local mesh = gfx.new_mesh()

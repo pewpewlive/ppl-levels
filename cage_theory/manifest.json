@@ -1,7 +1,10 @@
 {
-  "name":"Cage theory",
-  "descriptions":["you wait, you shoot, you wait, you shoot..."],
-  "entry_point":"level.lua",
-  "has_score_leaderboard":true,
-  "rank_thresholds_1p":{"bronze":740, "silver":1980, "gold":3860}
+  "name": "#444444ffCage #ffff00ffTheory",
+  "descriptions": [
+    "#444444ffYou wait, #ffff00ffyou shoot, #444444ffyou wait, #ffff00ffyou shoot, #ff0000ffyou die?"
+  ],
+  "information": "In this level, you need to shoot #ff0000ffRolling Spheres #ffffffff(in this level you can do that) to progress to the next wave.",
+  "entry_point": "level.lua",
+  "has_score_leaderboard": true,
+  "rank_thresholds_1p": { "bronze": 750, "silver": 1500, "gold": 2250 }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "#80ff00ffRolling Cubes#ffffffff vs #aa10ffffSpinning Hexagons",
+  "name": "#80ff00ffRolling Cubes#ffffffff and #aa10ffffSpinning Hexagons",
   "descriptions": ["Are #aa10ffffhexagons #ffffffffreally the #2020ffffbestagons#ffffffff???"],
   "entry_point": "level.lua",
   "has_score_leaderboard": true,

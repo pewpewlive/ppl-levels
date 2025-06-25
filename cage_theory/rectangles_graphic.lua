@@ -7,8 +7,8 @@ function get_random_color()
   return color_set[math.random(1, #color_set)]
 end
 
-local width = 600
-local height = 600
+local width =  550
+local height = 550
 
 local index1 = 0
 local index2 = 1
